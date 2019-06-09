@@ -2,6 +2,12 @@
 
 This is... lets call it a "continuation".... of the work that the team behind the Pro CFW has worked so hard on in the past. Now that the PSP is well abandoned, I'd like to see if I can revive some of the Sony created features. Things like, the PSN store. I'll be up front, all my coding knowledge is self-taught (and primarily in C#/PHP), so this is a big learning curve for me (I've dabbled very little in c/c++, enough to rebuild NitePR from source when that was still a thing). But, I still want to at least give this a go. Hopefully this actually works out, but even if not, there now exists, a record of my attempts that [maybe] someone with more skill than I can look at in the future.
 
+# What will this be called?
+I have no idea. Back when Dark Alex was actively making firmwares, I was a fan of the M33 nomenclature, however that's already happened. There's no need to revive a naming scheme that's attached to someone much more talented than I (plus, I'm not about to ride on his fame by making people think this is his work). In all honesty, it'll either be named something related to my handle (Giga/Gigawiz) or the gaming community that my friends and I run (Pew Pew Kittens). I'll probably revisit this later.
+
+# Can I help?
+Sure, if you want. But keep in mind, you're dealing with someone who is the _literal_ definition of "noob" when it comes to developing for the PSP. That being said, you're welcome to pull the code (god help you) and do some changes. If you're interested in discussing the project, I'll be hiding in a new discord that can be found [here](https://discord.gg/PZAeJ5t)
+
 # Planned Features
 * Custom, Built-In replacement for the PSN store
   * Download PSP ISO/CSO Games (from the plethora of sites on the web that supply these)
