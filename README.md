@@ -2,6 +2,16 @@
 
 This is... lets call it a "continuation".... of the work that the team behind the Pro CFW has worked so hard on in the past. Now that the PSP is well abandoned, I'd like to see if I can revive some of the Sony created features. Things like, the PSN store. I'll be up front, all my coding knowledge is self-taught (and primarily in C#/PHP), so this is a big learning curve for me (I've dabbled very little in c/c++, enough to rebuild NitePR from source when that was still a thing). But, I still want to at least give this a go. Hopefully this actually works out, but even if not, there now exists, a record of my attempts that [maybe] someone with more skill than I can look at in the future.
 
+# Planned Features
+* Custom, Built-In replacement for the PSN store
+  * Download PSP ISO/CSO Games (from the plethora of sites on the web that supply these)
+  * Download Homebrew Apps (Either from a hand-coded server that will also be open-sourced, or from the various homebrew-related sites that already exist)
+  * Download custom themes/boot animations 
+* Theming engine that allows a complete overall redesign of the UI (so the XMB could look more like... say Android or IOS, but without needing to directly edit the code of the firmware itself)
+  * Probably going to try to fiddle with the CXMB source, as that seems like a good starting point (Only seen a video on youtube about it, but it seems like this plugin does **exactly** this)
+* Continuation of the (Now defunct?) Prometheus/aemu Ad-Hoc Multiplayer Server
+* More to come as I complete those planned things....
+
 # Details about the Folder Structure
 
 * SystemControl: kernel of CFW
